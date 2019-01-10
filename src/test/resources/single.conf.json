@@ -1,0 +1,18 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "subrahmanyachari1",
+  "key": "tHQGqUGr68JysGzKp7qg",
+ 
+  "capabilities": {
+    "build": "ACTO IOS App Automation Testing",
+    "browserstack.debug": true,
+    "app": "bs://ddeef819cdfa1c7f2e88d016d01a3f87c905b7ce",
+    "automationName":"XCUITest"
+  },
+ 
+  "environments": {
+    "iPhone_7": {
+      "device": "iPhone 7"
+    }
+  }
+}
